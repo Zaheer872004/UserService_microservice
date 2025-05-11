@@ -48,7 +48,8 @@ public class UserInfoDto
                 .userId(userId)
                 .email(email)
                 .profilePic(profilePic)
-                .phoneNumber(phoneNumber).build();
+                .phoneNumber(phoneNumber)
+                .build();
     }
 
 }
